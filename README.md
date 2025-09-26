@@ -30,7 +30,7 @@ Other Tools: Git, GitHub, npm
 📂 Project Setup
 
 Clone the repo:
-git clone https://github.com/<your-username>/Online-Stock-Trading-Platform.git
+git clone https://github.com/advancedtalks/Online-Stock-Trading-Platform.git
 cd Online-Stock-Trading-Platform
 Install dependencies:
 npm install
